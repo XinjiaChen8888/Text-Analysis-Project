@@ -155,4 +155,3 @@ def main(word):
 
 if __name__ == "__main__":
     main('Technology')
-    ss
